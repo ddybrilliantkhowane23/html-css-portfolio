@@ -11,7 +11,7 @@ This website is part of my journey as a BSc IT student at NWU. It showcases my a
 > A clean footer to finish off the page
 
 ## Live Demo
-Coming soon via GitHub Pages...
+[Click to view site](https://ddybrilliantkhowane23.github.io/html-css-portfolio/)
 
 ## Tools Used
 > HTML5, 
